@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "control.h": "c",
+        "software_timer.h": "c"
+    }
+}
