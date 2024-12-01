@@ -1,9 +1,8 @@
-# embedded-system-K21
-## Lab 6-7-8
-Checkout branch to see implementation for each lab
+# BKIT ARM 4 - LAB 08: ESP8266 - Wifi
+- Understand how to configure and use the timer on the experiment kit;
+- Understand how to configure and use the seven-segment LED library on the experiment kit;
 
-- ADC - PWM
-- LCD Touch
-- ESP8266 - Wifi
-
-> Lecturer: Nguyen Thien An
+# Build and Run Instructions
+- Step 1: Import the Project into STM32CubeIDE (File -> Open Projects From File System...).
+- Step 2: Build the project.
+- Step 3: Run.
